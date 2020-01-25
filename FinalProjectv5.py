@@ -1,4 +1,4 @@
-""" PROJECT VERSION 3
+""" PROJECT VERSION 3 (or not?)
 TENSORFLOW COMPATILIBTY SUGGESTIONS REVIEWED"""
 
 from __future__ import absolute_import, division, print_function, unicode_literals
