@@ -4,4 +4,4 @@ The five files in this project correspond to different stages of the project. v4
 
 This project is nothing to take seriously, just a side exercise I made.
 ## file notes
-The files in this project are sourced from a famous [Kaggle](https://www.kaggle.com/c/dogs-vs-cats). 
+The files in this project are sourced from a famous [Kaggle](https://www.kaggle.com/c/dogs-vs-cats).  Many images have been manually removed for causing problems with the model due mostly to their bit depth.
